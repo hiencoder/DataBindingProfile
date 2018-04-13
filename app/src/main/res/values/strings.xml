@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">DataBindingProfile</string>
+    <string name="txt_toolbar_profile">Profile</string>
+    <string name="txt_posts">POSTS</string>
+    <string name="txt_followers">FOLLOWERS</string>
+    <string name="txt_following">FOLLOWING</string>
+
 </resources>
